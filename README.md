@@ -47,6 +47,17 @@ Do this manually or just run this command in a new folder:
 
 ```sudo git clone https://github.com/yuvrajmalhi/Ring-Sorter.git```
 
+![image](https://user-images.githubusercontent.com/76866159/105621974-2e6a6600-5e33-11eb-81a6-22af33a0197a.png)
+
+### Step II
+While still in the directory in which you have the new files, run the command:
+
+```sudo make```
+
+The output must be as follows:
+
+![image](https://user-images.githubusercontent.com/76866159/105622019-899c5880-5e33-11eb-87f5-2ea9ac9c6ef2.png)
+
 
 
 

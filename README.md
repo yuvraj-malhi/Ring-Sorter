@@ -8,7 +8,7 @@ This is a fun project to test theoretical concepts on an operating system. Befor
   2. TCP sockets: All the programs in Ring Sorter are connected through TCP sockets. These sockets are reliable and don't require ACK handling on an application level.
   
   3. Mergesort with Ring Topology: To summarise, a traditional merge sort algorithm takes place like this:
-   ``` 
+``` 
    Algorithm mergeSort(S)             // Array S of integers
       if size(S) > 1
           (S1, S2) <- partition(S)    // Partition S into smaller arrays S1,S2
@@ -18,7 +18,7 @@ This is a fun project to test theoretical concepts on an operating system. Befor
           return
       else
           return
-     ```
+```
      [For more reference on merge sort, refer to https://www.youtube.com/watch?v=TzeBrDU-JaY]
      
      

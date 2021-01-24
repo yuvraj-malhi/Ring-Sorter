@@ -17,8 +17,9 @@ This is a fun project to test theoretical concepts on an operating system. Befor
           S <- merge(S1, S2)
           return
       else
-          return
-```
+          return```
+          
+          
      [For more reference on merge sort, refer to https://www.youtube.com/watch?v=TzeBrDU-JaY]
      
      
